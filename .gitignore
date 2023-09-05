@@ -1,0 +1,29 @@
+# logs
+*.log
+*LOGFILE*
+
+# output files need to be force-added
+*.csv
+*.png
+*.jpg
+*.jpeg
+*.pkl
+*.xlsx
+*.txt
+
+# cache
+*__pycache__/
+*.pyc
+
+# reports folder - need to be force-added
+*reports/
+
+# scratch files and folders
+
+*scratch*
+*scratch/
+
+# notebooks
+
+*notebooks/
+*.ipynb
